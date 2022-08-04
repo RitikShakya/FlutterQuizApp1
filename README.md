@@ -1,16 +1,9 @@
-# quizapp1
+Home Page
+![image](https://user-images.githubusercontent.com/84911098/182919842-32ae2e1f-c38a-4d82-ac38-d5cdd37469c5.png)
 
-A new Flutter project.
 
-## Getting Started
+After Completing the quiz
+![image](https://user-images.githubusercontent.com/84911098/182919920-beefa7a0-c54e-42e5-83dc-0249abbd0feb.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Based On score different personalities are there like awesome wierd
+![image](https://user-images.githubusercontent.com/84911098/182919981-78d8ec2a-319c-4b89-8403-dbbfea76d321.png)
